@@ -36,7 +36,7 @@ For your web development projects to have a broader reach, you must make sure th
 
 W3C [World Wide Web Consortium](https://www.w3.org/) is the authority behind developing web standards to maximize accessibility and consistency of the web experience. W3C is also the authority to develop new features in the CSS. This is a closely collaborative approach with the Web as a community as well as the companies developing the web browsers.
 
-When the web browsers such as Nexus and Netscape were released, there was no such organization as W3C to help create more compatibility. Your application could look and function differently in each browser. Even worse, your application could've been completely unusable. Web developers had to make specific adjustments for each browser, and not every developer had enough resources to make that work for everyone.
+When the web browsers such as Nexus and Netscape were released, there was no such organization like W3C to help create more compatibility. Your application could look and function differently in each browser. Even worse, your application could've been completely unusable. Web developers had to make specific adjustments for each browser, and not every developer had enough resources to make that work for everyone.
 
 Today, as the standards around the web evolve and change, and web developers begin implementing new features in their codebase, the browsers must provide support for those new features. If the user experience is impacted by the lack of support in the browsers, the users might find their way to the competitor.
 
